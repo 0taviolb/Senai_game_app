@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Senai Game App",
+    "slug": "senai-game-app",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["android"],
+    "orientation": "portrait",
+    "android": {
+      "package": "com.senai.gameapp"
+    }
+  }
+}
